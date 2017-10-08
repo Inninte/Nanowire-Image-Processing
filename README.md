@@ -1,2 +1,2 @@
-*** Project Title: Image Processing for Quantification of Nanowires
+### Project Title: Image Processing for Quantification of Nanowires
 
