@@ -7,4 +7,3 @@ specific order paramter S.
 ---
 The program takes SEM images in the .png format and processes them
 
-S= ⟨2 cos^2⁡〖θ_i-〗 ┤ ├ 1⟩=1/N ∑_(i=1)^N▒〖(2 cos^2⁡〖θ_i-〗 1)〗
